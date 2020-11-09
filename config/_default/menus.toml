@@ -5,28 +5,53 @@
 
 [[main]]
   name = "Home"
-  url = "#about"
+  url = "#overview"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Background"
+  url = "#introduction"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Study Regions"
+  url = "#regions"
   weight = 30
+  
+[[main]]
+  name = "World Terrestrial Ecosystems"
+  url = "#wte"
+  weight = 40
+  
+[[main]]
+  name = "Methods"
+  url = "#methods"
+  weight = 50
+
+#[[main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 20
+
+#[[main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 30
+
+#[[main]]
+#  name = "Publications"
+#  url = "#featured"
+#  weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
-  weight = 40
+  name = "People"
+  url = "#people"
+  weight = 60
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
