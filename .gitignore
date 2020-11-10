@@ -9,5 +9,3 @@ exampleSite/
 scripts/
 academic.Rproj
 .github/
-go.mod
-go.sum
