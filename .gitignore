@@ -3,5 +3,8 @@
 .ipynb_checkpoints/
 
 # Hugo
-/resources/
+resources/
 public/
+exampleSite/
+images/
+scripts/
