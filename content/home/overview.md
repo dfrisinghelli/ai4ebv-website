@@ -54,6 +54,6 @@ subtitle = "Using AI to validate and downscale ecosytem-related Essential Biodiv
 
 **Project lead**: [Eurac Research](http://www.eurac.edu/en/Pages/default.aspx), Bolzano, Italy
 
-**Partners**: [United States Geological Survey](https://www.usgs.gov/) (USGS), [Mountain Reasearch Initiative](https://www.mountainresearchinitiative.org/) (MRI) and [Institute for Atmospheric Sciences and Climate of the National Research Council](http://www.isac.cnr.it/) (ISAC-CNR)
+**Partners**: [United States Geological Survey](https://www.usgs.gov/) (USGS), [Mountain Reasearch Initiative](https://www.mountainresearchinitiative.org/) (MRI) and [Institute for Atmospheric Sciences and Climate of the National Research Council Italy](http://www.isac.cnr.it/) (ISAC-CNR)
 
 **Call**: 1st GEO BON – Microsoft joint call: EBVs on the cloud
