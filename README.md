@@ -1,4 +1,4 @@
-<p align="center"><a target="_blank" rel="noopener"><img src="/static/media/ai4ebv_logo.png"></a></p>
+<p align="center"><a target="_blank" rel="noopener"><img src="/assets/images/logo.png"></a></p>
 
 # Artificial Intelligence to downscale Essential Biodiversity Variables in mountain environments
 
