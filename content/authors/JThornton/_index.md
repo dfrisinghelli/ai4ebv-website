@@ -1,6 +1,7 @@
 ---
 # Display name
 title: James Thornton
+weight: 4
 
 # Is this the primary user of the site?
 superuser: false

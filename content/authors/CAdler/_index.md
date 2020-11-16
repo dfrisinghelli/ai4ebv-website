@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Carolina Adler
+weight: 2
 
 # Is this the primary user of the site?
 superuser: false
