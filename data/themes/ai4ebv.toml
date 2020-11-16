@@ -1,0 +1,26 @@
+# Theme metadata
+name = "ai4ebv"
+
+# Is theme light or dark?
+light = false
+
+# Primary
+primary = "#57c170"
+primary_light = "#57c170"
+primary_dark = "#57c170"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#57c170"
+menu_text_active = "#529b64"
+menu_title = "#fff"
+
+# Home sections
+dark_home_section_odd = "rgb(255, 255, 255)"
+dark_home_section_even = "rgb(247, 247, 247)"
+home_section_odd = "rgb(34, 39, 45)"
+home_section_even = "rgb(40, 44, 50)"
+
+# Links
+link = "#57c170"
+link_hover = "#57c170"
