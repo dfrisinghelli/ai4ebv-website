@@ -8,8 +8,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "AI4EBV"
-subtitle = "Using AI to validate and downscale ecosytem-related Essential Biodiversity Variables (EBVs) in mountain environments"
+title = ""
+subtitle = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -29,15 +29,15 @@ subtitle = "Using AI to validate and downscale ecosytem-related Essential Biodiv
   # gradient_end = "ForestGreen"
   
   # Background image.
-  # image = "image.jpg"  # Name of image in `static/media/`.
-  # image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-  # image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
-  # image_position = "center"  # Options include `left`, `center` (default), or `right`.
-  # image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
+  image = "overview_background.jpg"  # Name of image in `static/media/`.
+  image_darken = 0.5 # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+  image_size = "cover"  #  Options are `cover` (default), `contain`, or `actual` size.
+  image_position = "center"  # Options include `left`, `center` (default), or `right`.
+  image_parallax = true  # Use a fun parallax-like fixed background effect? true/false
   
   # Text color (true=light or false=dark).
   # text_color_light = true
-
+  
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   padding = ["20px", "0", "20px", "0"]
@@ -50,10 +50,32 @@ subtitle = "Using AI to validate and downscale ecosytem-related Essential Biodiv
  css_class = ""
 +++
 
-**Time span**: October 2020 - September 2023
+<img src="media/ai4ebv_logo.png"/>
 
-**Project lead**: [Eurac Research](http://www.eurac.edu/en/Pages/default.aspx), Bolzano, Italy
+<span style="color:#c9c9c9">
+Using Artificial Intelligence to validate and downscale ecosystem-related Essential Biodiversity Variables in mountain environments
+    
+- Time span: October 2020 - September 2023
 
-**Partners**: [United States Geological Survey](https://www.usgs.gov/) (USGS), [Mountain Reasearch Initiative](https://www.mountainresearchinitiative.org/) (MRI) and [Institute for Atmospheric Sciences and Climate of the National Research Council Italy](http://www.isac.cnr.it/) (ISAC-CNR)
+- Project lead: [Eurac Research](http://www.eurac.edu/en/Pages/default.aspx), Bolzano, Italy
 
-**Call**: 1st GEO BON – Microsoft joint call: EBVs on the cloud
+- Partners:
+    
+    - [United States Geological Survey](https://www.usgs.gov/) (USGS)
+    
+    - [Mountain Reasearch Initiative](https://www.mountainresearchinitiative.org/) (MRI)
+    
+    - [Institute for Atmospheric Sciences and Climate of the National Research Council Italy](http://www.isac.cnr.it/) (ISAC-CNR)
+ 
+- Call: 1st [Group on Earth Observations Biodiversity Observation Network](https://geobon.org/) (GEO BON) – [Microsoft](https://www.microsoft.com) joint call: [EBVs on the cloud](http://www.earthobservations.org/geo_blog_obs.php?id=470)
+</span>
+
+<div align="center">
+    <img style="float:left; margin:25px" src="/media/logo_eurac.png" width=10%/>
+    <img style="float:left; margin:25px" src="/media/usgs_logo.png" width=10%/>
+    <img style="float:left; margin:25px" src="/media/MRI_logo_rgb.svg" width=10%/>
+    <img style="float:left; margin:25px" src="/media/GEO-Mountains-Logo-Tagline.png" width=10%/>
+    <img style="float:left; margin:25px" src="/media/isac_logo.svg" width=10%/>
+    <img style="float:left; margin:25px" src="/media/GEOBON-white.png" width=10%/>
+    <img style="float:left; margin:25px" src="/media/microsoft.png" width=10%/>
+</div>

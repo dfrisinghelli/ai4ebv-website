@@ -57,5 +57,5 @@ The address the research questions, we focus on three different approaches:
 
 <p align="center">
   <img src="/media/Methods.png">
-  <em>Flowchart of the spatial downsampling procedure for the different components defining the World Terrestrial Ecosystems.</em>
+  <em>Flowchart of the proposed approach to validate and downscale the World Terrestrial Ecosystems product using high-resolution Earth observation data. </em>
 </p>
