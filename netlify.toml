@@ -29,5 +29,5 @@
   from = "https://ai4ebv.netlify.app/"
   to = "https://ai4ebv.eurac.edu/"
   status = 301
-  force = false
+  force = true
   query = {path = ":path"}
