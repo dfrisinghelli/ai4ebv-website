@@ -26,8 +26,7 @@
     Content-Type = "application/rss+xml"
 
 [[redirects]]
-  from = "https://ai4ebv.netlify.app/"
-  to = "https://ai4ebv.eurac.edu/"
+  from = "https://ai4ebv.netlify.app"
+  to = "https://ai4ebv.eurac.edu"
   status = 301
   force = true
-  query = {path = ":path"}
