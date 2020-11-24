@@ -59,15 +59,15 @@ Using Artificial Intelligence to validate and downscale ecosystem-related Essent
 
 - Project lead: [Eurac Research](http://www.eurac.edu/en/Pages/default.aspx), Bolzano, Italy
 
-- Partners:
+- Partners within the scope of the [Group on Earth Observations (GEO) Global Network for Observations and Information in Mountain Environments](https://mountainresearchinitiative.org/activities/projects/geo-mountains) (GEO Mountains):
     
     - [United States Geological Survey](https://www.usgs.gov/) (USGS)
     
-    - [Mountain Reasearch Initiative](https://www.mountainresearchinitiative.org/) (MRI)
+    - [Mountain Research Initiative](https://www.mountainresearchinitiative.org/) (MRI)
     
     - [Institute for Atmospheric Sciences and Climate of the National Research Council Italy](http://www.isac.cnr.it/) (ISAC-CNR)
  
-- Call: 1st [Group on Earth Observations Biodiversity Observation Network](https://geobon.org/) (GEO BON) – [Microsoft](https://www.microsoft.com) joint call: [EBVs on the cloud](http://www.earthobservations.org/geo_blog_obs.php?id=470)
+- Call: 1st [GEO Biodiversity Observation Network](https://geobon.org/) (GEO BON) – [Microsoft](https://www.microsoft.com) joint call: [EBVs on the cloud](http://www.earthobservations.org/geo_blog_obs.php?id=470)
 </span>
 
 <div align="center">
